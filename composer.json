@@ -1,0 +1,15 @@
+{
+    "name": "jeffersonsalvador/son-financas",
+    "authors": [
+        {
+            "name": "Jefferson Salvador",
+            "email": "jeffersonsalvador@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"SONFin\\": "src/"
+    	}
+    }
+}
